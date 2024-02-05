@@ -1,7 +1,7 @@
 # Hello, I'm Evgenii Borisovich
 
 ## About Me
-I'm passionate about learning and working with C#, and I have hands-on experience with my project on ASP.NET "Pictures".
+I programmer, sound engineer, musician from Kaliningrad. I'm passionate about learning and working with C#, and I have hands-on experience with my project on ASP.NET "Pictures".
 
 ## Skills
 
