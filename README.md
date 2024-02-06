@@ -1,7 +1,7 @@
 # Hello, I'm Evgenii Borisovich
 
 ## About Me
-I programmer, sound engineer, musician from Kaliningrad. I'm passionate about learning and working with C#, and I have hands-on experience with my project on ASP.NET "Pictures".
+Programmer, sound engineer, musician from Kaliningrad. I'm passionate about learning and working with C#, and I have hands-on experience with my project on ASP.NET "Pictures".
 
 ## Skills
 
@@ -17,7 +17,7 @@ I programmer, sound engineer, musician from Kaliningrad. I'm passionate about le
 
 - Developed a picture management web application using ASP.NET.
 - Implemented features for picture uploads, view and deleting, user account creation.
-- Utilized ASP.NET Identity Framework for user authentication and authorization.
+- Authentication and authorization.
 - Project contains unit tests.
 
 For more details about my projects and contributions, please visit my GitHub and explore the repositories.
